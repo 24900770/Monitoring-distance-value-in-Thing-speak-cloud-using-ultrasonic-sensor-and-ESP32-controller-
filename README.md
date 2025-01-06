@@ -1,7 +1,10 @@
-# Monitoring-soil-moisture-value-in-Thing-speak-cloud
-# Uploading soil moisture sensor data in Thing Speak cloud
-### NAME: HARIHARAN M
-### REG NO: 24900770
+# NAME: Hariharan M
+# REG NO: 24900770
+
+# EXPERIMENT 6
+# Monitoring distance value in Thing speak cloud using ultrasonic sensor and ESP32 controller
+
+# Uploading ultrasonic sensor data in Thing Speak cloud
 
 # AIM:
 To monitor the soil moisture value in the Thing speak cloud using soil moisture sensor and ESP32 controller.
